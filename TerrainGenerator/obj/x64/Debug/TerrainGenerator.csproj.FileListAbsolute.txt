@@ -1,0 +1,16 @@
+D:\Belgeler\Visual Studio 2017\Projects\TerrainGenerator\TerrainGenerator\TerrainGenerator\bin\x64\Debug\TerrainGenerator.exe
+D:\Belgeler\Visual Studio 2017\Projects\TerrainGenerator\TerrainGenerator\TerrainGenerator\bin\x64\Debug\TerrainGenerator.pdb
+D:\Belgeler\Visual Studio 2017\Projects\TerrainGenerator\TerrainGenerator\TerrainGenerator\bin\x64\Debug\Microsoft.DirectX.Direct3D.dll
+D:\Belgeler\Visual Studio 2017\Projects\TerrainGenerator\TerrainGenerator\TerrainGenerator\bin\x64\Debug\Microsoft.DirectX.Direct3DX.dll
+D:\Belgeler\Visual Studio 2017\Projects\TerrainGenerator\TerrainGenerator\TerrainGenerator\bin\x64\Debug\Microsoft.DirectX.dll
+D:\Belgeler\Visual Studio 2017\Projects\TerrainGenerator\TerrainGenerator\TerrainGenerator\bin\x64\Debug\Microsoft.DirectX.xml
+D:\Belgeler\Visual Studio 2017\Projects\TerrainGenerator\TerrainGenerator\TerrainGenerator\bin\x64\Debug\Microsoft.DirectX.Direct3D.xml
+D:\Belgeler\Visual Studio 2017\Projects\TerrainGenerator\TerrainGenerator\TerrainGenerator\bin\x64\Debug\Microsoft.DirectX.Direct3DX.xml
+D:\Belgeler\Visual Studio 2017\Projects\TerrainGenerator\TerrainGenerator\TerrainGenerator\obj\x64\Debug\TerrainGenerator.csprojAssemblyReference.cache
+D:\Belgeler\Visual Studio 2017\Projects\TerrainGenerator\TerrainGenerator\TerrainGenerator\obj\x64\Debug\TerrainGenerator.Form1.resources
+D:\Belgeler\Visual Studio 2017\Projects\TerrainGenerator\TerrainGenerator\TerrainGenerator\obj\x64\Debug\TerrainGenerator.Properties.Resources.resources
+D:\Belgeler\Visual Studio 2017\Projects\TerrainGenerator\TerrainGenerator\TerrainGenerator\obj\x64\Debug\TerrainGenerator.csproj.GenerateResource.cache
+D:\Belgeler\Visual Studio 2017\Projects\TerrainGenerator\TerrainGenerator\TerrainGenerator\obj\x64\Debug\TerrainGenerator.csproj.CoreCompileInputs.cache
+D:\Belgeler\Visual Studio 2017\Projects\TerrainGenerator\TerrainGenerator\TerrainGenerator\obj\x64\Debug\TerrainGenerator.csproj.CopyComplete
+D:\Belgeler\Visual Studio 2017\Projects\TerrainGenerator\TerrainGenerator\TerrainGenerator\obj\x64\Debug\TerrainGenerator.exe
+D:\Belgeler\Visual Studio 2017\Projects\TerrainGenerator\TerrainGenerator\TerrainGenerator\obj\x64\Debug\TerrainGenerator.pdb
